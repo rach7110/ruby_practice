@@ -2,6 +2,8 @@
 # EXERCISE 1
 ##############
 
+# Yay!
+
 puts "Hello friend! What is your name?"
 @name = gets.chomp
 
