@@ -1,5 +1,4 @@
-# Rachel Loziuk
-# rachel.loziuk@gmail.com
+
 
 #-----------------------one------------------------------
 # puts "Hello friend! What is your name?"
